@@ -9,12 +9,18 @@ body {
     background-color: #1A1D25;
 }
 
+
+/* Video Background */
+
 .videoBackground {
     position: fixed;
     top: -10%;
     min-width: 100%;
     min-height: 100%;
 }
+
+
+/* Search Box and Button */
 
 .search,
 .content-box {
